@@ -1,3 +1,5 @@
+Used with older version golang
+
 Testify - Thou Shalt Write Tests
 ================================
 
